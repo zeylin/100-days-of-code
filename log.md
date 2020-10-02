@@ -23,3 +23,9 @@
 **Today's Progress**: Once upon a time, I took a closer look, and discovered that I did have use for the validation thing in my little project, so I added that, along with custom error handling for when `@Valid` throws errors. which apparently (and of course) one can override, repackage the whole thing, and send it even further, all the way to the moon.
 
 **Thoughts:** Validation is neat. Also, digging around Spring API is never not entertaining. 10/10 would recommend. No seriously, diving under the hood of frameworks or libraries you use is perhaps one of the most powerful learning tools I have discovered so far in my life as a professional engineer. Not only it might give better understanding (and appreciation) for the kind of stuff those hidden apis are doing & how, but also can be a good starting ground in terms what to pay attention to, or what questions to ask, or just to read and try to understand other ppl's code. This isn't about Spring, but a much, much more general outlook at the resources at one's disposal as a developer, and something I can't recommend enough of.
+
+### Day 5: October 2, 2020
+
+**Today's Progress**: Decided to practice making subreports with Jaspersoft reports, because why not, and because that could help with some more complex reports in the future. So there goes the first report for my price tracking project. Hmm, that could make for a nice file download feature for the frontend part of the project as well.
+
+**Thoughts:** (Almost) every other single thing with Jasper reports comes with a moderate to steep learning (and researching) curve 🏔, and countless hours raking through the 2007-2014 corners of the internet 🍂 But when it works, it's pretty neat 📝⚡️
